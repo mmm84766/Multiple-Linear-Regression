@@ -1,4 +1,4 @@
-# Multiple-Linear-Ragression
+# Multiple-Linear-Regression
 
 Library, Tools and Language
 
